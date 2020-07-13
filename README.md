@@ -1,16 +1,16 @@
-### Hi there 👋
+# :man_technologist: João Silva
 
-<!--
-**JVictor07/JVictor07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JVictor07)](https://github.com/JVictor07)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jv-silva/)](https://www.linkedin.com/in/jv-silva/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
-Here are some ideas to get you started:
+## Hello! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is João, Front end developer who loves to solve problems and make solutions with codes 👨🏻‍💻.
+
+- :office_worker: Web Designer Junior na **Seri.e Design**
+- 🔧 Techs: HTML, CSS, JS, React.js, React Native, Node.js and others...
+- :books: Studying more about React, React Native and Node.js :blue_heart:
+
+---
+
