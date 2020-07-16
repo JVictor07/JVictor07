@@ -9,6 +9,7 @@
 ## Hello! 👋
 
 My name is João, Front end developer who loves to solve problems and make solutions with codes 👨🏻‍💻.
+
 In my free times, I too like to study about stocks 🏦 and design interfaces 🎨.
 
 - :office_worker: Web Designer Junior at <a href="https://seriedesign.com.br/" target="_blank">Seri.e Design</a>
