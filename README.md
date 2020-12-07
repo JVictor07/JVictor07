@@ -12,7 +12,7 @@ My name is João, Front end developer who loves to solve problems and make solut
 
 In my free times, I too like to study about stocks 🏦 and design interfaces 🎨.
 
-- :office_worker: Web Designer Junior at <a href="https://seriedesign.com.br/" target="_blank">Seri.e Design</a>
+- :office_worker: Front End Developer at <a href="https://huia.haus/en/" target="_blank">Huia</a>
 - 🔧 Techs: HTML, CSS, JS, React.js, React Native, Node.js and others...
 - :books: Studying more about React, React Native and Node.js :blue_heart:
 
