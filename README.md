@@ -8,9 +8,9 @@
 
 ## Hello! 👋
 
-My name is João, Front end developer who loves to solve problems and make solutions with codes 👨🏻‍💻.
+My name is João, I'm a front-end developer who loves to solve problems and make solutions with codes 👨🏻‍💻.
 
-In my free times, I too like to study about stocks 🏦 and design interfaces 🎨.
+In my free time, I also like to study about stocks 🏦 and design interfaces 🎨.
 
 - :office_worker: Web Designer Junior at <a href="https://seriedesign.com.br/" target="_blank">Seri.e Design</a>
 - 🔧 Techs: HTML, CSS, JS, React.js, React Native, Node.js and others...
