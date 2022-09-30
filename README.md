@@ -8,13 +8,12 @@
 
 ## Hello! 👋
 
-My name is João, I'm a front-end developer who loves to solve problems and make solutions with codes 👨🏻‍💻.
+My name is João, a Front End Developer from Brazil with knowledgeable in the process to develop, testing, debugging and maintenance of websites made with React.js and
+applications made with React Native.
 
-In my free time, I also like to study about stocks 🏦 and design interfaces 🎨.
+In the course of my career, I have helped companies to develop ecommerces, made technical decisions to build new projects, managed deliveries of new features and participated in the construction of applications with more than 100,000 monthly users.
 
-- :office_worker: Front End Developer at <a href="https://huia.haus/en/" target="_blank">Huia</a>
-- 🔧 Techs: HTML, CSS, JS, React.js, React Native, Node.js and others...
-- :books: Studying more about React, React Native and Node.js :blue_heart:
+In addition, I like a lot to study about entrepreneurship, Marketing, Growth Hacking and team management, so usually you can find me in the events about these topics on Brazil.
 
 ---
 
